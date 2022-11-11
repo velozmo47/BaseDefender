@@ -1,0 +1,16 @@
+{
+    "name": "BaseDefender.InterfaceAdapters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1b23a830245853042bddadba5c8c6f37"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

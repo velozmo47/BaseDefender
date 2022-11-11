@@ -1,0 +1,16 @@
+{
+    "name": "BaseDefender.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:97baeb0b3880c544eb9058f8752fa3f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
